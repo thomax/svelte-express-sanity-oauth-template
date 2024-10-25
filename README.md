@@ -1,7 +1,9 @@
-# svelte-express-sanity-oauth-tepmlate
-Blueprint for setting up a full-stack webapp
+# svelte-express-sanity-oauth-template
 
-## What's in the box
+Template repo for setting up a full-stack webapp
+
+## What's in the box?
+
 - Svelte (not Sveltekit)
 - Express server
 - Sanity studio (for editing content)
@@ -9,6 +11,7 @@ Blueprint for setting up a full-stack webapp
 - Bootstrap
 
 ## Usage
+
 - clone the repo
 - edit the .env files (studio and server)
-- profit!  
+- profit!
